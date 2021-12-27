@@ -1,5 +1,6 @@
 {
-  "name": "react-scaler-project1",
+  "homepage": "https://sushmitha1109.github.io/react-porfolio_generator",
+  "name": "react-portfolio_generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,6 +16,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
