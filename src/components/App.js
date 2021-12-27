@@ -7,24 +7,24 @@ class App extends Component {
   state = {
     Dark: true,
     FormData: {
-      FirstName: "Kavitha",
-      LastName: "Pontagani",
-      Thumbnail: "https://i.imgur.com/3uEyHgdl.png",
-      URL: "https://www.linkedin.com/in/pontagani-kavitha-a495b3221/",
+      FirstName: "Raghuram",
+      LastName: "Gnanasekaran",
+      Thumbnail: "https://www.linkedin.com/in/raghuramgrr/detail/photo/",
+      URL: "https://www.linkedin.com/in/raghuramgrr",
       Description:
-        "I am Kavitha. I am a Developer. Attended Parvatha Reddy Babul Reddy Visvodaya Institute of Technology & Science",
-      KeyWords: "Kavitha, Pontagani, Developer, Awesome Person",
-      Address: "Chennai, Tamil Nadu, India",
-      Phone: "+919841098410",
-      Email: "kavitha@kavitha.com",
+        "",
+      KeyWords: "Kavitha, Pontagani, Developer, Team lead scrum Master",
+      Address: "Singapore",
+      Phone: "+65-91690249",
+      Email: "raghuramgrr@gmail.com",
       Socials: {
-        Facebook: "kavitha",
-        WhatsApp: "kavitha",
-        Instagram: "kavitha",
-        Twitter: "kavitha",
-        LinkedIn: "kavitha",
-        GitHub: "kavitha",
-        StackOverflow: "123456"
+        Facebook: "Raghu",
+        WhatsApp: "raghu",
+        Instagram: "raghu",
+        Twitter: "raghu",
+        LinkedIn: "raghu",
+        GitHub: "raghu",
+        StackOverflow: "raghu"
       },
       Experience: [
         {
