@@ -93,7 +93,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header dark={this.state.Dark} className="Header">
-          <span>Scaler Portfolio Generator</span>
+          <span>Portfolio Generator</span>
           <button
             className="btn btn-sm btn-outline-primary rounded-circle"
             onClick={this.toggleHeader}
