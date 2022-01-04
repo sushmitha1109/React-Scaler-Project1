@@ -7,24 +7,24 @@ class App extends Component {
   state = {
     Dark: true,
     FormData: {
-      FirstName: "Raghuram",
-      LastName: "Gnanasekaran",
-      Thumbnail: "https://www.linkedin.com/in/raghuramgrr/detail/photo/",
-      URL: "https://www.linkedin.com/in/raghuramgrr",
+      FirstName: "",
+      LastName: "",
+      Thumbnail: "",
+      URL: "",
       Description:
         "",
       KeyWords: "Kavitha, Pontagani, Developer, Team lead scrum Master",
       Address: "Singapore",
-      Phone: "+65-91690249",
-      Email: "raghuramgrr@gmail.com",
+      Phone: "",
+      Email: "",
       Socials: {
-        Facebook: "Raghu",
-        WhatsApp: "raghu",
-        Instagram: "raghu",
-        Twitter: "raghu",
-        LinkedIn: "raghu",
-        GitHub: "raghu",
-        StackOverflow: "raghu"
+        Facebook: "",
+        WhatsApp: "",
+        Instagram: "",
+        Twitter: "",
+        LinkedIn: "",
+        GitHub: "",
+        StackOverflow: ""
       },
       Experience: [
         {
