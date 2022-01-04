@@ -7,8 +7,8 @@ class App extends Component {
   state = {
     Dark: true,
     FormData: {
-      FirstName: "",
-      LastName: "",
+      FirstName: "XYZ",
+      LastName: "123",
       Thumbnail: "",
       URL: "",
       Description:
